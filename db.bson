@@ -1,0 +1,29 @@
+{
+  _id: "",
+  name: "",
+  class: "",
+  description: "",
+  timeset: ""
+}
+
+{
+  sub_id: "",
+  General_Description: "",
+  resouces: "",
+}
+
+{
+  syllabus_id: "",
+  _id: "",
+  no_of_obv: "",
+  sub_id: ""
+}
+
+{
+  _id: "",
+  obv_set_id: "",
+  detail: "",
+  percentage: "",
+  subj_id: "",
+  syllabus_id: "",
+}
